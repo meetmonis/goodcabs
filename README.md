@@ -7,12 +7,12 @@
 
 ---
 
-#### 🔭 **Project Highlight: Goodcabs Data Analysis**
+##### 🔭 **Project Highlight: Goodcabs Data Analysis**
 I’ve completed working on **[Goodcabs](https://codebasics.io/challenge/codebasics-resume-project-challenge)**, a data analysis project where I performed ad-hoc analysis, created interactive dashboards, and derived actionable insights from complex datasets.
 
 ---
 
-#### 📂 **Datasets Used**
+##### 📂 **Datasets Used**
 The project involved the following datasets:
 
 | Dataset Name                          | Description                                                                 | Commit Message                                      
@@ -28,7 +28,7 @@ The project involved the following datasets:
 
 ---
 
-#### 🛠️ **Ad-Hoc Analysis with SQL**
+##### 🛠️ **Ad-Hoc Analysis with SQL**
 I performed ad-hoc analysis using SQL to extract insights from the datasets. 
 
 
@@ -38,13 +38,18 @@ I created an interactive dashboard in Power BI to visualize the insights derived
 📄 Problem Statement & Ad-Hoc Requests
 The problem statement and ad-hoc requests are documented in PDF format for clarity. 
 
+
+
 📫 How to Reach Me
 📧 Email: monis.engineer@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/meetmonis
 
+
+
 🛠️ Tech Stack
 <p align="left" style="background-color: grey; padding: 20px; border-radius: 10px; margin-top: 20px;"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" /> </a> <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50" /> </a> </p>
+
 
 
 🌟 Show Your Support
