@@ -34,13 +34,18 @@ I performed ad-hoc analysis using SQL to extract insights from the datasets.
 
 
 
+
 #### 📊 **Power BI Dashboard**
 I created an interactive dashboard in Power BI to visualize the insights derived from the analysis. You can explore the dashboard by downloading the .pbix file from the Power BI folder.
 
 
 
+
 #### 📄 **Problem Statement & Ad-Hoc Requests**
 The problem statement and ad-hoc requests are documented in PDF format for clarity. 
+
+
+
 
 
 
