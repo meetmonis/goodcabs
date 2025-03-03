@@ -7,12 +7,12 @@
 
 ---
 
-## 🔭 **Project Highlight: Goodcabs Data Analysis**
+#### 🔭 **Project Highlight: Goodcabs Data Analysis**
 I’ve completed working on **[Goodcabs](https://codebasics.io/challenge/codebasics-resume-project-challenge)**, a data analysis project where I performed ad-hoc analysis, created interactive dashboards, and derived actionable insights from complex datasets.
 
 ---
 
-## 📂 **Datasets Used**
+#### 📂 **Datasets Used**
 The project involved the following datasets:
 
 | Dataset Name                          | Description                                                                 | Commit Message                                      
@@ -28,7 +28,7 @@ The project involved the following datasets:
 
 ---
 
-## 🛠️ **Ad-Hoc Analysis with SQL**
+#### 🛠️ **Ad-Hoc Analysis with SQL**
 I performed ad-hoc analysis using SQL to extract insights from the datasets. 
 
 
