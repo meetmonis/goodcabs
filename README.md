@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Monis</h1>
-<h3 align="center">A Passionate Data Analyst from India</h3>
+<h4 align="center">A Passionate Data Analyst from India</h4>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=meetmonis&label=Profile%20views&color=0e75b6&style=flat" alt="meetmonis" /> 
@@ -10,7 +10,8 @@
 ### 🔭 **Project Highlight: Goodcabs Data Analysis**
 I’ve completed working on **[Goodcabs](https://codebasics.io/challenge/codebasics-resume-project-challenge)**, a data analysis project where I performed ad-hoc analysis, created interactive dashboards, and derived actionable insights from complex datasets.
 
----
+
+
 
 ### 📂 **Datasets Used**
 The project involved the following datasets:
@@ -46,10 +47,8 @@ Ad-Hoc Requests PDF
 
 📫 How to Reach Me
 📧 Email: monis.engineer@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/meetmonis
 
-💼 LinkedIn: Your LinkedIn Profile
-
-🌐 Portfolio: Your Portfolio Website
 
 🛠️ Tech Stack
 <p align="left" style="background-color: grey; padding: 20px; border-radius: 10px; margin-top: 20px;"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" /> </a> <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50" /> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" /> </a> </p>
