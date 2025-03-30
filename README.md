@@ -1,12 +1,4 @@
-# Hi 👋, I'm Monis
 
-#### Data Analyst & Visualizer from India – Bringing Data to Life
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=meetmonis&label=Profile%20views&color=0e75b6&style=flat" alt="meetmonis" /> 
-</p>
-
----
 
 #### 🔭 **Project Highlight: Goodcabs Data Analysis**
 I’ve completed working on **[Goodcabs](https://codebasics.io/challenge/codebasics-resume-project-challenge)**, a data analysis project where I performed ad-hoc analysis, created interactive dashboards, and derived actionable insights from complex datasets.
